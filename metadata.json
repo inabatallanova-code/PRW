@@ -1,0 +1,6 @@
+{
+  "name": "Professional English Lab",
+  "description": "Mobile-first university learning platform for Professional Reading & Writing in English with interactive vocabulary, reading comprehension, writing missions, and AI assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
